@@ -1,0 +1,12 @@
+# KiCad: arquivos locais, cache e backups automáticos
+*-backups/
+*.zip
+fp-info-cache
+.history/
+*.lck
+*.kicad_prl
+*-bak
+*_old
+_autosave-*
+*.dsn
+jlcpcb/project.db
